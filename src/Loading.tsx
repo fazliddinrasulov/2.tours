@@ -1,5 +1,5 @@
 const Loading = () => {
-  return <h1 className="loading" />;
+  return <div className="loading" />;
 };
 
 export default Loading;
